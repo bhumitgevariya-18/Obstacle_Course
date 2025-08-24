@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/07c7403e-55c9-4ddf-808e-d6109335a2dc)
+
 # Unity Movement & Collision Demo
 
 ## Project Description
